@@ -1,4 +1,4 @@
-{"version_code":453096,"content":"
+{"version_code":4525850,"content":"
 
 </li>تحديث جديد واتساب علاء اسماعيل ضد الحظر
 
@@ -57,8 +57,6 @@
 إصلاح مشكلة تأخير ارسال الرسائل عند البعض.
 
 إصلاح مشكلة الترجمة.</li>
- 
- </p>شكرا لكم</p>
- 
- ","url":"https://www.free-netsyra.com/2019/09/Whatsappplus5.html"
+
+ ","url":"https://www.free-netsyra.com/2020/04/Whatsapp963Alaa.html"
 }
